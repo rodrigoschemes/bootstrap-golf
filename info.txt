@@ -1,0 +1,15 @@
+Instalar
+- Node
+- Gulp-cli
+- node-sass
+- Harvest
+
+Iniciar projeto
+- npm install
+- gulp
+
+Bower install 
+- bootstrap
+- font-awesome
+- animate.css
+- wow
